@@ -3,6 +3,18 @@
 This project sets up the Damn Vulnerable Web Application (DVWA) using Docker, aimed at practicing SQL Injection attacks in a safe, isolated environment.
 
 ---
+---
+
+## 🚨 Legal Disclaimer
+
+**This project is intended for ethical educational purposes only. Any misuse of the contents is solely the responsibility of the user.**
+
+- ⚠️ Do not use this project on systems you do not own.
+- ⚠️ Do not expose this environment to the public internet.
+- ⚠️ Use only in local or private testing environments.
+- ❌ Never use this knowledge for illegal or malicious activities.
+
+✅ This project complies with ethical hacking principles and GitHub's Terms of Service.
 
 ## ⚠️ Important Notice
 
