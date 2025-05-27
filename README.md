@@ -64,9 +64,5 @@ http://localhost:8080
 
 ⸻
 
-📝 Documentation and Contributions
-
-Feel free to improve or adapt this project for your own learning.
-Pull requests and issues are welcome.
-# sql-injection-dvwa-docker
-sql injection test lab using DVWA with docker and WSL2
+⚠️ DISCLAIMER:
+This project is for educational purposes only. We are not responsible for any misuse of the techniques demonstrated here. Use only in test environments under your own responsibility.
