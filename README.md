@@ -23,7 +23,7 @@ Do NOT use these techniques on any system without explicit permission. Unauthori
 
 ---
 
-## 🧰 Requirements
+##  Requirements
 
 - Docker Desktop installed and running  
 - WSL 2 enabled on Windows (for Windows users)  
@@ -31,7 +31,7 @@ Do NOT use these techniques on any system without explicit permission. Unauthori
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 1. Clone this repository:  
    ```bash
